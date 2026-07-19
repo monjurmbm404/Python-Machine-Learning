@@ -108,9 +108,9 @@ He created a program that learned to play checkers.
 
 The growth of:
 
-* Internet
-* Databases
-* Computing power
+- Internet
+- Databases
+- Computing power
 
 helped ML become practical.
 
@@ -120,15 +120,15 @@ helped ML become practical.
 
 Deep Learning became popular because of:
 
-* Big Data
-* Powerful GPUs
-* Neural Networks
+- Big Data
+- Powerful GPUs
+- Neural Networks
 
 Examples:
 
-* Image recognition
-* Voice assistants
-* Self-driving cars
+- Image recognition
+- Voice assistants
+- Self-driving cars
 
 ---
 
@@ -146,10 +146,10 @@ Modern systems generate massive amounts of data.
 
 Examples:
 
-* Social media posts
-* Images
-* Videos
-* Sensor data
+- Social media posts
+- Images
+- Videos
+- Sensor data
 
 Humans cannot analyze all this data manually.
 
@@ -167,10 +167,10 @@ Examples:
 
 A face changes because of:
 
-* Lighting
-* Angle
-* Expression
-* Age
+- Lighting
+- Angle
+- Expression
+- Age
 
 Writing thousands of rules is impossible.
 
@@ -184,9 +184,9 @@ Machine Learning can automate decision-making tasks.
 
 Examples:
 
-* Spam filtering
-* Product recommendation
-* Fraud detection
+- Spam filtering
+- Product recommendation
+- Fraud detection
 
 ---
 
@@ -198,10 +198,10 @@ AI is the broad field of creating machines that can perform tasks requiring huma
 
 Examples:
 
-* Reasoning
-* Planning
-* Learning
-* Decision making
+- Reasoning
+- Planning
+- Learning
+- Decision making
 
 ---
 
@@ -229,9 +229,9 @@ Deep Learning
 
 Applications:
 
-* Disease prediction
-* Medical image analysis
-* Drug discovery
+- Disease prediction
+- Medical image analysis
+- Drug discovery
 
 Example:
 
@@ -243,9 +243,9 @@ Cancer detection from medical images.
 
 Applications:
 
-* Fraud detection
-* Credit scoring
-* Risk prediction
+- Fraud detection
+- Credit scoring
+- Risk prediction
 
 Example:
 
@@ -257,9 +257,9 @@ Detecting suspicious transactions.
 
 Applications:
 
-* Movie recommendation
-* Music recommendation
-* Video recommendation
+- Movie recommendation
+- Music recommendation
+- Video recommendation
 
 Examples:
 
@@ -271,9 +271,9 @@ Netflix, YouTube, Spotify
 
 Applications:
 
-* Self-driving vehicles
-* Traffic prediction
-* Route optimization
+- Self-driving vehicles
+- Traffic prediction
+- Route optimization
 
 ---
 
@@ -283,9 +283,9 @@ Machine Learning helps computers understand human language.
 
 Examples:
 
-* Chatbots
-* Translation systems
-* Voice assistants
+- Chatbots
+- Translation systems
+- Voice assistants
 
 ---
 
@@ -391,9 +391,9 @@ House prediction:
 
 Features:
 
-* Size
-* Location
-* Number of rooms
+- Size
+- Location
+- Number of rooms
 
 ---
 
@@ -439,9 +439,9 @@ Before choosing an algorithm:
 
 Ask:
 
-* What problem am I solving?
-* What data do I need?
-* How will I evaluate success?
+- What problem am I solving?
+- What data do I need?
+- How will I evaluate success?
 
 ---
 
@@ -465,9 +465,9 @@ Theory alone is not enough.
 
 Practice through:
 
-* Small projects
-* Kaggle competitions
-* Real datasets
+- Small projects
+- Kaggle competitions
+- Real datasets
 
 ---
 
@@ -519,7 +519,7 @@ Because it can solve complex problems, analyze huge datasets, and automate intel
 
 In the next lecture:
 
-* Data Science roadmap
-* ML Engineer roadmap
-* AI Engineer roadmap
-* Skills required for ML career
+- Data Science roadmap
+- ML Engineer roadmap
+- AI Engineer roadmap
+- Skills required for ML career

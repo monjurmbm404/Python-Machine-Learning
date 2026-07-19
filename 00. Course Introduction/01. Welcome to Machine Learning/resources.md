@@ -38,7 +38,6 @@ Book Link:
 
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
 
-
 ---
 
 ## 2. Introduction to Machine Learning with Python
@@ -54,11 +53,9 @@ Why this book:
 - Excellent for understanding ML concepts
 - Uses Scikit-Learn
 
-
 Book Link:
 
 https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
-
 
 ---
 
@@ -73,11 +70,9 @@ Why this book:
 - Mathematical foundation
 - Advanced ML theory
 
-
 ---
 
 # 🌐 Online Resources
-
 
 ## 1. Google Machine Learning Crash Course
 
@@ -93,11 +88,9 @@ Topics:
 - Neural networks
 - Model evaluation
 
-
 Link:
 
 https://developers.google.com/machine-learning/crash-course
-
 
 ---
 
@@ -113,11 +106,9 @@ Topics:
 - Algorithms
 - Projects
 
-
 Link:
 
 https://github.com/microsoft/ML-For-Beginners
-
 
 ---
 
@@ -134,16 +125,13 @@ Topics:
 - Data Visualization
 - Machine Learning
 
-
 Link:
 
 https://www.kaggle.com/learn
 
-
 ---
 
 # 🎓 Complete Courses
-
 
 ## Machine Learning Specialization
 
@@ -155,7 +143,6 @@ Platform:
 
 Coursera
 
-
 Topics:
 
 - Supervised Learning
@@ -163,11 +150,9 @@ Topics:
 - Neural Networks
 - ML Projects
 
-
 Link:
 
 https://www.coursera.org/specializations/machine-learning-introduction
-
 
 ---
 
@@ -177,23 +162,19 @@ Provider:
 
 Harvard University
 
-
 Topics:
 
 - Search algorithms
 - Machine learning
 - Neural networks
 
-
 Link:
 
 https://cs50.harvard.edu/ai/
 
-
 ---
 
 # 🎬 YouTube Channels
-
 
 ## 1. StatQuest
 
@@ -203,11 +184,9 @@ Best for:
 - ML concepts
 - Visualization
 
-
 Channel:
 
 https://www.youtube.com/@statquest
-
 
 ---
 
@@ -218,11 +197,9 @@ Best for:
 - Complete ML courses
 - Long-form tutorials
 
-
 Channel:
 
 https://www.youtube.com/@freecodecamp
-
 
 ---
 
@@ -234,23 +211,19 @@ Best for:
 - Linear algebra
 - Neural networks
 
-
 Channel:
 
 https://www.youtube.com/@3blue1brown
 
-
 ---
 
 # 📝 Articles
-
 
 ## What is Machine Learning?
 
 IBM
 
 https://www.ibm.com/topics/machine-learning
-
 
 ---
 
@@ -260,11 +233,9 @@ Google Developers
 
 https://developers.google.com/machine-learning
 
-
 ---
 
 # 🧰 Tools Used Throughout Course
-
 
 ## Programming Language
 
@@ -272,26 +243,21 @@ Python
 
 https://www.python.org/
 
-
 ---
 
 ## Development Environment
-
 
 ### Jupyter Notebook
 
 https://jupyter.org/
 
-
 ### Visual Studio Code
 
 https://code.visualstudio.com/
 
-
 ---
 
 # 🐍 Python Libraries
-
 
 ## NumPy
 
@@ -299,9 +265,7 @@ Purpose:
 
 Numerical computing
 
-
 https://numpy.org/
-
 
 ---
 
@@ -311,9 +275,7 @@ Purpose:
 
 Data manipulation
 
-
 https://pandas.pydata.org/
-
 
 ---
 
@@ -323,9 +285,7 @@ Purpose:
 
 Data visualization
 
-
 https://matplotlib.org/
-
 
 ---
 
@@ -335,14 +295,11 @@ Purpose:
 
 Machine Learning algorithms
 
-
 https://scikit-learn.org/
-
 
 ---
 
 # 📊 Practice Platforms
-
 
 ## Kaggle
 
@@ -352,9 +309,7 @@ Use for:
 - ML competitions
 - Notebooks
 
-
 https://www.kaggle.com/
-
 
 ---
 
@@ -365,14 +320,11 @@ Use for:
 - Research datasets
 - Practice
 
-
 https://archive.ics.uci.edu/
-
 
 ---
 
 # 🧪 Beginner Practice Projects
-
 
 ## Project 01
 
@@ -383,7 +335,6 @@ Concepts:
 - Regression
 - Features
 - Target
-
 
 ---
 
@@ -396,7 +347,6 @@ Concepts:
 - Classification
 - Text processing
 
-
 ---
 
 ## Project 03
@@ -408,11 +358,9 @@ Concepts:
 - Clustering
 - Unsupervised Learning
 
-
 ---
 
 # 🖼 Visual Resources
-
 
 Images used in this lecture:
 
@@ -424,11 +372,9 @@ Images used in this lecture:
 
 4. Data → Model → Prediction Flow
 
-
 ---
 
 # ⭐ Additional Learning Tips
-
 
 - Learn concepts before algorithms
 - Practice Python regularly

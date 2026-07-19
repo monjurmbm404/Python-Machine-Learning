@@ -1,0 +1,40 @@
+# ==========================================
+# Machine Learning Course Requirements
+# Beginner → Advanced
+# ==========================================
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
+
+# Core Scientific Computing
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Model Visualization
+graphviz
+
+# Progress Bar
+tqdm
+
+# Utilities
+scipy
+joblib
+
+# Notebook Display
+ipywidgets
+
+# Dataset Download
+kagglehub
+
+# Optional (Useful)
+openpyxl
+xlrd

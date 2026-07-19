@@ -260,9 +260,6 @@ Lecture Folder/
 ├── README.md
 ├── notes.md
 ├── resources.md
-├── examples/
-├── notebooks/
-└── images/
 ```
 
 ---
