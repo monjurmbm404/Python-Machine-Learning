@@ -1,0 +1,37 @@
+# Core Scientific Computing
+
+numpy
+pandas
+scipy
+
+# Data Visualization
+
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+
+scikit-learn
+
+# Jupyter Notebook
+
+jupyter
+notebook
+ipykernel
+
+# Model Persistence
+
+joblib
+
+# Progress Bar
+
+tqdm
+
+# Kaggle API
+
+kaggle
+
+# Optional Utilities
+
+openpyxl
