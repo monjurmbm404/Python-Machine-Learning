@@ -1,6 +1,6 @@
 # 🚀 Welcome to Machine Learning
 
-![Machine Learning](images/machine-learning-introduction.png)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,100:42be65&height=200&section=header&text=Machine%20Learning&fontSize=40&fontColor=ffffff)
 
 Welcome to the first lecture of the **Beginner to Advanced Machine Learning Course**.
 
